@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61d1497c-4932-4522-bbcc-54a4b8d5ffe3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,9 +10,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="193" />
+    <option name="myElementSize" value="187" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1rNA8u30Hq6NkxJ2pb1If3Myko0" />
@@ -31,8 +34,32 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="JUnit.All in org.jacoco.examples.maven.java (1)">
+  <component name="RunManager" selected="JUnit.All in org.jacoco.examples.maven.java (4)">
     <configuration name="All in org.jacoco.examples.maven.java (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="org.jacoco.examples.maven.java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in org.jacoco.examples.maven.java (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="org.jacoco.examples.maven.java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in org.jacoco.examples.maven.java (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="org.jacoco.examples.maven.java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in org.jacoco.examples.maven.java (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="org.jacoco.examples.maven.java" />
       <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
@@ -50,6 +77,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in org.jacoco.examples.maven.java (4)" />
+        <item itemvalue="JUnit.All in org.jacoco.examples.maven.java (3)" />
+        <item itemvalue="JUnit.All in org.jacoco.examples.maven.java (2)" />
         <item itemvalue="JUnit.All in org.jacoco.examples.maven.java (1)" />
         <item itemvalue="JUnit.All in org.jacoco.examples.maven.java" />
       </list>
@@ -65,41 +95,62 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1618806017516</updated>
-      <workItem from="1618806020360" duration="709000" />
+      <workItem from="1618806020360" duration="1023000" />
     </task>
+    <task id="LOCAL-00001" summary="f">
+      <created>1618806759780</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618806759780</updated>
+    </task>
+    <task id="LOCAL-00002" summary="f">
+      <created>1618806831293</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618806831293</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="f" />
+    <option name="LAST_COMMIT_MESSAGE" value="f" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2075" y="107" key="CommitChangelistDialog2" timestamp="1618806758273">
+    <state x="2075" y="107" key="CommitChangelistDialog2" timestamp="1618806829705">
       <screen x="1600" y="0" width="1920" height="1040" />
     </state>
-    <state x="2075" y="107" key="CommitChangelistDialog2/0.0.1600.819/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618806758273" />
-    <state width="1340" height="238" key="GridCell.Tab.0.bottom" timestamp="1618806306558">
+    <state x="2075" y="107" key="CommitChangelistDialog2/0.0.1600.819/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618806829705" />
+    <state width="1340" height="283" key="GridCell.Tab.0.bottom" timestamp="1618806921985">
       <screen x="1600" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="238" key="GridCell.Tab.0.bottom/0.0.1600.819/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618806306558" />
-    <state width="1340" height="238" key="GridCell.Tab.0.center" timestamp="1618806306558">
+    <state width="1340" height="283" key="GridCell.Tab.0.bottom/0.0.1600.819/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618806921985" />
+    <state width="1340" height="283" key="GridCell.Tab.0.center" timestamp="1618806921985">
       <screen x="1600" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="238" key="GridCell.Tab.0.center/0.0.1600.819/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618806306558" />
-    <state width="1340" height="238" key="GridCell.Tab.0.left" timestamp="1618806306558">
+    <state width="1340" height="283" key="GridCell.Tab.0.center/0.0.1600.819/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618806921985" />
+    <state width="1340" height="283" key="GridCell.Tab.0.left" timestamp="1618806921985">
       <screen x="1600" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="238" key="GridCell.Tab.0.left/0.0.1600.819/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618806306558" />
-    <state width="1340" height="238" key="GridCell.Tab.0.right" timestamp="1618806306558">
+    <state width="1340" height="283" key="GridCell.Tab.0.left/0.0.1600.819/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618806921985" />
+    <state width="1340" height="283" key="GridCell.Tab.0.right" timestamp="1618806921985">
       <screen x="1600" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="238" key="GridCell.Tab.0.right/0.0.1600.819/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618806306558" />
-    <state x="2131" y="244" key="Vcs.Push.Dialog.v2" timestamp="1618806761468">
+    <state width="1340" height="283" key="GridCell.Tab.0.right/0.0.1600.819/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618806921985" />
+    <state x="2131" y="244" key="Vcs.Push.Dialog.v2" timestamp="1618806832956">
       <screen x="1600" y="0" width="1920" height="1040" />
     </state>
-    <state x="2131" y="244" key="Vcs.Push.Dialog.v2/0.0.1600.819/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618806761468" />
+    <state x="2131" y="244" key="Vcs.Push.Dialog.v2/0.0.1600.819/1600.0.1920.1040@1600.0.1920.1040" timestamp="1618806832956" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/org_jacoco_examples_maven_java$All_in_org_jacoco_examples_maven_java__3_.ic" NAME="All in org.jacoco.examples.maven.java (3) Coverage Results" MODIFIED="1618806870416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/org_jacoco_examples_maven_java$All_in_org_jacoco_examples_maven_java.ic" NAME="All in org.jacoco.examples.maven.java Coverage Results" MODIFIED="1618806109457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/org_jacoco_examples_maven_java$All_in_org_jacoco_examples_maven_java__1_.ic" NAME="All in org.jacoco.examples.maven.java (1) Coverage Results" MODIFIED="1618806306481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/org_jacoco_examples_maven_java$All_in_org_jacoco_examples_maven_java__4_.ic" NAME="All in org.jacoco.examples.maven.java (4) Coverage Results" MODIFIED="1618806921907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
